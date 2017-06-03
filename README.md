@@ -13,6 +13,8 @@ So I came up with a very simple algorithm that takes care of that problem by tur
 
 Those optional values make the resulting pass much stronger, but even without them the resulting string will be practically unpredictable.
 
+With a sample password "secret", keys 123, 456 and 7 special characters you get 1W/SnJZ#bFp3VlZWWWFGc}E5hMVY2V>\k"cx$d1N (password length set to 40).
+
 For more information, read the source code and the docstrings.
 
 Feedback is welcome and appreciated, hope you find it useful.
