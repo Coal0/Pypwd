@@ -1,5 +1,5 @@
 # Pypwd
-[![inner-strength.jpg](https://s13.postimg.org/878e7cf13/inner-strength.jpg)](https://postimg.org/image/bqubx5hqr/)
+                          [![inner-strength.jpg](https://s13.postimg.org/878e7cf13/inner-strength.jpg)](https://postimg.org/image/bqubx5hqr/)
 
 Pypwd is a nifty password generator coded in Python
 _______________________________________________________________________________
