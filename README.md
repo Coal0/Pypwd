@@ -1,11 +1,10 @@
 # Pypwd
-_________
 [![inner-strength.jpg](https://s13.postimg.org/878e7cf13/inner-strength.jpg)](https://postimg.org/image/bqubx5hqr/)
+
 Pypwd is a nifty password generator coded in Python
 _______________________________________________________________________________
 
 # Description:
-_______________
 A secure password doesn't just have to include upper and lower case characters and numbers, it also has to be unpredictable.
 
 For example, JohnSmith82 is of medium strength at least according to most password meters, but 7/10 online dictionaries contain it, those dictionaries are available online free of charge, making it vulnerable to dictionary attacks.
