@@ -1,3 +1,14 @@
+# Warning as of June 7th, 2017
+This project advertises the use of "Pypwd", a Python script written to generate secure passwords, claiming:
+
+> Those optional values make the resulting pass much stronger,
+> but even without them the resulting string will be practically unpredictable.
+
+"Pypwd" has now been broken. Any passwords generated with "Pypwd" can be cracked using a wordlist attack.
+A public version of the cracking script can be found [here](https://github.com/Coal0/SecurityTheater/blob/master/SecurityTheater.py).
+Users should at no time rely on "Pypwd" for generating secure passwords, unless the source code is updated.
+
+
 # Pypwd
                           [![inner-strength.jpg](https://s13.postimg.org/878e7cf13/inner-strength.jpg)](https://postimg.org/image/bqubx5hqr/)
 
